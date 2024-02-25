@@ -1,0 +1,182 @@
+.frame10-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame10-frame10 {
+    width: 100%;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .frame10-mac-book-air3 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(150, 174, 165, 1);
+  }
+  .frame10-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 143px;
+    position: absolute;
+  }
+  .frame10-text {
+    top: 52px;
+    left: 122px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame10-text02 {
+    top: 705px;
+    left: 739px;
+    color: rgba(78, 92, 87, 1);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame10-text04 {
+    top: 503px;
+    left: 728px;
+    color: rgba(78, 92, 87, 1);
+    width: 525px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame10-filled-bookmark-ribbon {
+    top: 36px;
+    left: 32px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame10-rectangle8 {
+    top: 317px;
+    left: 146px;
+    width: 531px;
+    height: 776px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .frame10-text06 {
+    top: 581px;
+    left: 757px;
+    color: rgba(255, 255, 255, 1);
+    width: 761px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame10-text07 {
+    font-weight: 700;
+  }
+  .frame10-text08 {
+    font-weight: 400;
+  }
+  .frame10-text12 {
+    font-weight: 700;
+  }
+  .frame10-text13 {
+    font-weight: 400;
+  }
+  .frame10-text15 {
+    top: 783px;
+    left: 757px;
+    color: rgba(255, 255, 255, 1);
+    width: 761px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame10-text16 {
+    font-weight: 700;
+  }
+  .frame10-text17 {
+    font-weight: 400;
+  }
+  .frame10-text21 {
+    font-weight: 700;
+  }
+  .frame10-image0-percent {
+    top: 935px;
+    left: 925px;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+  }
+  .frame10-image0-percent1 {
+    top: 935px;
+    left: 1170px;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+  }
+  .frame10-text26 {
+    top: 290px;
+    left: 757px;
+    color: rgba(255, 255, 255, 1);
+    width: 845px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }

@@ -1,0 +1,167 @@
+.container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame3 {
+    width: 100%;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .mac-book-air3 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(150, 174, 165, 1);
+  }
+  .rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 143px;
+    position: absolute;
+  }
+  .text {
+    top: 52px;
+    left: 277px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text02 {
+    top: 47px;
+    left: 1325px;
+    color: rgba(0, 0, 0, 1);
+    width: 185px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .filled-bookmark-ribbon {
+    top: 36px;
+    left: 32px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .rectangle6 {
+    top: 763px;
+    left: 676px;
+    width: 200px;
+    height: 72px;
+    position: absolute;
+  }
+  .text04 {
+    top: 775px;
+    left: 714px;
+    color: rgba(255, 255, 255, 1);
+    width: 123px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .rectangle8 {
+    top: 383px;
+    left: 541px;
+    width: 456px;
+    height: 84px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .rectangle9 {
+    top: 555px;
+    left: 541px;
+    width: 456px;
+    height: 84px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .text06 {
+    top: 402px;
+    left: 676px;
+    color: rgba(27, 79, 90, 0.5);
+    width: 193px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text08 {
+    top: 573px;
+    left: 669px;
+    color: rgba(27, 79, 90, 0.47999998927116394);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+.form-container {
+  background: rgb(150, 174, 165) ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0px;
+  margin-top: 0px;
+}
+
+.input {
+  background: rgb(183, 181, 176);
+  border-radius: 50px;
+  padding: 15px;
+  border: none;
+  margin-bottom: 80px;
+  margin-top: 120px;
+  font-size: 16px;
+  width: 30%;
+}

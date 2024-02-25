@@ -1,0 +1,124 @@
+.frame6-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame6-frame6 {
+    width: 100%;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .frame6-mac-book-air3 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(150, 174, 165, 1);
+  }
+  .frame6-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 143px;
+    position: absolute;
+  }
+  .frame6-text {
+    top: 47px;
+    left: 1067px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame6-text02 {
+    top: 52px;
+    left: 122px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame6-text04 {
+    top: 47px;
+    left: 1325px;
+    color: rgba(0, 0, 0, 1);
+    width: 185px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame6-filled-bookmark-ribbon {
+    top: 36px;
+    left: 32px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame6-text06 {
+    top: 241px;
+    left: 128px;
+    color: rgba(255, 255, 255, 1);
+    width: 675px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame6-text11 {
+    top: 290px;
+    left: 119px;
+    color: rgba(255, 255, 255, 1);
+    width: 1391px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }

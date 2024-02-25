@@ -1,0 +1,371 @@
+.frame2-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame2-frame2 {
+    width: 100%;
+    height: 1793px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .frame2-mac-book-air3 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 1793px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(150, 174, 165, 1);
+  }
+  .frame2-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 143px;
+    position: absolute;
+  }
+  .frame2-text {
+    top: 47px;
+    left: 1067px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text02 {
+    top: 52px;
+    left: 122px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text04 {
+    top: 1232px;
+    left: 83px;
+    color: rgba(78, 92, 87, 1);
+    width: 306px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text06 {
+    top: 696px;
+    left: 576px;
+    color: rgba(78, 92, 87, 1);
+    width: 479px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text08 {
+    top: 47px;
+    left: 1325px;
+    color: rgba(0, 0, 0, 1);
+    width: 185px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-filled-bookmark-ribbon {
+    top: 36px;
+    left: 32px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-rectangle3 {
+    top: 313px;
+    left: 195px;
+    width: 381px;
+    height: 58px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .frame2-rectangle4 {
+    top: 549px;
+    left: 552px;
+    width: 190px;
+    height: 58px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .frame2-rectangle5 {
+    top: 549px;
+    left: 912px;
+    width: 190px;
+    height: 61px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .frame2-text10 {
+    top: 324px;
+    left: 234px;
+    color: rgba(150, 174, 165, 1);
+    width: 318px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text12 {
+    top: 1074px;
+    left: 463px;
+    color: rgba(78, 92, 87, 1);
+    width: 1062px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-circle {
+    top: 847px;
+    left: 338px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle01 {
+    top: 1644px;
+    left: 83px;
+    width: 69px;
+    height: 54px;
+    position: absolute;
+  }
+  .frame2-circle02 {
+    top: 1644px;
+    left: 185px;
+    width: 69px;
+    height: 54px;
+    position: absolute;
+  }
+  .frame2-circle03 {
+    top: 1644px;
+    left: 287px;
+    width: 69px;
+    height: 54px;
+    position: absolute;
+  }
+  .frame2-circle04 {
+    top: 847px;
+    left: 1019px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle05 {
+    top: 847px;
+    left: 853px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle06 {
+    top: 847px;
+    left: 670px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle07 {
+    top: 847px;
+    left: 504px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle08 {
+    top: 847px;
+    left: 1180px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle09 {
+    top: 847px;
+    left: 196px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle10 {
+    top: 847px;
+    left: 1342px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle11 {
+    top: 673px;
+    left: 1539px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame2-circle12 {
+    top: 221px;
+    left: 1062px;
+    width: 525px;
+    height: 300px;
+    position: absolute;
+  }
+  .frame2-text14 {
+    top: 1577px;
+    left: 1114px;
+    color: rgba(78, 93, 87, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text16 {
+    top: 1633px;
+    left: 1115px;
+    color: rgba(78, 93, 87, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text18 {
+    top: 1574px;
+    left: 95px;
+    color: rgba(78, 93, 87, 1);
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text20 {
+    top: 563px;
+    left: 586px;
+    color: rgba(78, 93, 87, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text22 {
+    top: 565px;
+    left: 935px;
+    color: rgba(78, 93, 87, 1);
+    width: 144px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame2-text24 {
+    top: 1740px;
+    left: 667px;
+    color: rgba(210, 233, 224, 1);
+    width: 297px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .show {
+    display: block;
+  }

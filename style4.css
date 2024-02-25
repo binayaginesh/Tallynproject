@@ -1,0 +1,124 @@
+.frame5-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame5-frame5 {
+    width: 100%;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .frame5-mac-book-air3 {
+    top: 17px;
+    left: 0px;
+    width: 1632px;
+    height: 1327px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(150, 174, 165, 1);
+  }
+  .frame5-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 1632px;
+    height: 143px;
+    position: absolute;
+  }
+  .frame5-text {
+    top: 47px;
+    left: 1067px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame5-text02 {
+    top: 52px;
+    left: 122px;
+    color: rgba(78, 92, 87, 1);
+    width: 223px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Encode Sans Expanded;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame5-text04 {
+    top: 47px;
+    left: 1325px;
+    color: rgba(0, 0, 0, 1);
+    width: 185px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame5-filled-bookmark-ribbon {
+    top: 36px;
+    left: 32px;
+    width: 96px;
+    height: 96px;
+    position: absolute;
+  }
+  .frame5-text06 {
+    top: 241px;
+    left: 121px;
+    color: rgba(255, 250, 250, 1);
+    width: 675px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame5-text08 {
+    top: 370px;
+    left: 161px;
+    color: rgba(255, 255, 255, 1);
+    width: 1363px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Encode Sans Semi Expanded;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
